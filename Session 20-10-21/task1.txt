@@ -1,0 +1,10 @@
+ASSIGNMENTS ON STRUCTS
+
+0. Make a file named Logic.go
+1. Logic.go will contain a "Person Struct" having 3 data-members
+    2.1 data-members : name , age & address
+    2.2 data-members must have types string , int & string respectivly
+2. create a set-default function
+3. Make setters & getters for the Person Struct
+4. add a feature to count number of instances created 
+5. create a main.go file to test it out
